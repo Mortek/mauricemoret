@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/49/trunk/teacher
+END
+studentPresence.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/56/trunk/teacher/studentPresence.php
+END
+deleteTeacher.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/teacher/deleteTeacher.php
+END
+editTeacher.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/teacher/editTeacher.php
+END
+presenceList.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/54/trunk/teacher/presenceList.php
+END
+addStudent.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/teacher/addStudent.php
+END
+presence.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/55/trunk/teacher/presence.php
+END
+addGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/51/trunk/teacher/addGroup.php
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/55/trunk/teacher/group.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/55/trunk/teacher/home.php
+END
+addTeacher.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/51/trunk/teacher/addTeacher.php
+END
+teacher.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/50/trunk/teacher/teacher.php
+END
+checkPresence.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/54/trunk/teacher/checkPresence.php
+END
+checkOutHome.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/55/trunk/teacher/checkOutHome.php
+END
+deletePresence.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/54/trunk/teacher/deletePresence.php
+END
+reportStudent.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/teacher/reportStudent.php
+END
+deleteRelation.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/51/trunk/teacher/deleteRelation.php
+END
+goHome.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/56/trunk/teacher/goHome.php
+END
+changeStudent.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/teacher/changeStudent.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/47/trunk/teacher/admin.php
+END
+signStudentOut.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/57/trunk/teacher/signStudentOut.php
+END
+deleteStudent.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/teacher/deleteStudent.php
+END
+editStudent.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/57/trunk/teacher/editStudent.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/55/trunk/teacher/index.php
+END
+changeTeacher.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/51/trunk/teacher/changeTeacher.php
+END
+choosePresence.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/55/trunk/teacher/choosePresence.php
+END

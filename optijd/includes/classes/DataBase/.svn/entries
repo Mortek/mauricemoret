@@ -1,0 +1,87 @@
+10
+
+dir
+49
+https://emerging-media.googlecode.com/svn/trunk/includes/classes/DataBase
+https://emerging-media.googlecode.com/svn
+
+
+
+2012-06-20T06:14:37.554070Z
+47
+MMoret1337@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6df774a-d1fe-fd3d-8151-3c87a500aa13
+
+
+
+
+
+
+0
+
+DataAccessObject
+dir
+
+DataBase.php
+file
+
+
+
+
+2012-06-04T10:14:05.123000Z
+350941f9586fbebd73d0795e56320ae0
+2012-06-03T00:41:32.182502Z
+27
+mmoret1337@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1916
+
+File
+dir
+
+Group
+dir
+
+Presence
+dir
+
+Student
+dir
+
+Teacher
+dir
+

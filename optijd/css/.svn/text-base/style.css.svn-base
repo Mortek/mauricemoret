@@ -1,0 +1,342 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+html { 
+    background: url(../images/bg.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body
+{
+    font-family: Trebuchet MS, Gill Sans, Gill Sans MT, Lucida Sans Unicode, Century Gothic, Helvetica, Arial, Verdana, sans-serif; 
+    overflow-y: scroll;
+    line-height: 1.2;
+}
+
+a {color: #525252; font-weight: bold; text-decoration: none; outline: none;}
+a:hover {color: #72b2e1;}
+a img {border: 0;}
+.floatLeft {float: left;}
+.clearFix {clear: both;}
+.textCenter {text-align: center;}
+.centerH1 {width: 325px; text-align: center;}
+h1 {padding: 20px 0px 20px 0px;}
+h2 {padding: 20px 0px 20px 0px;}
+.toLeRight {float:right; padding: 0px 20px 0px 0px;}
+span.edit {padding: 0px 0px 0px 15px;}
+.bold {font-weight: bold;}
+.required {color: #3b5998;}
+hr {color: #ced9e1;}
+.profilePic {margin: -20px 0px 0px 200px;}
+.marginSubmitButton {margin-bottom: 5px;}
+.marginSubmitButton2 {margin-left: 5px;}
+.deletePng {padding: 0px 3px 0px 0px;}
+
+#content
+{
+    margin: 50px auto;
+    width: 500px;
+    padding-bottom: 30px;
+    background-color: #e9f4ff;
+    
+    -moz-box-shadow: 3px 3px 3px #767676; 
+    -webkit-box-shadow: 3px 3px 3px #767676; 
+    box-shadow: 3px 3px 3px #767676; 
+    
+    -moz-border-radius: 2em;
+    border-radius: 2em;
+    opacity: 0.7;
+    border: 2px solid #ced9e1;
+}
+
+.index
+{
+    margin: 0px 0px 0px 80px;
+}
+
+.index .form
+{
+    padding: 0px 0px 0px 10px;
+}
+
+.admin
+{
+    margin: 0px 0px 0px 80px;
+}
+
+.admin .form
+{
+    padding: 0px 0px 0px 10px;
+}
+
+/* ALL FORMS */
+
+#wrapper #content form.form
+{
+    width: 152px;
+    margin: 0 auto;
+}
+
+#wrapper #content form fieldset
+{
+    border: none;
+}
+
+
+
+.submitButton input 
+{
+    background: url('../images/large_button.png') no-repeat;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    width: 152px;
+    height: 32px;
+    margin: 10px 0px 0px 0px;
+    color: #ffffff;
+    text-shadow: 1px 1px #767676;
+}
+
+.submitButton input:hover
+{
+    background: url('../images/large_button_hover.png') no-repeat;
+}
+
+.inputField input 
+{
+    height: 25px;
+    width: 150px;
+    -moz-border-radius: 0.5em;
+    border-radius: 0.5em;
+}
+
+.inputField label
+{
+    margin-top:10px;
+}
+
+.inputField textarea 
+{
+    height: 125px;
+    width: 150px;
+    -moz-border-radius: 0.5em;
+    border-radius: 0.5em;
+}
+
+/* ADD GROUP FORM */
+
+#wrapper #content form.addGroup label
+{
+    margin: 0px 20px 0px 0px;
+}
+
+#wrapper #content form.addGroup .inputField
+{
+    margin: -50px 0px 20px 0px;
+}
+
+#wrapper #content form.addGroup .inputField input
+{
+    width: 30px;
+}
+
+.addGroupButton
+{
+    position: relative;
+    top: -82px;
+    left: 390px;
+}
+
+.addGroupButton input 
+{
+    background: url('../images/medium_button.png') no-repeat;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+    width: 90px;
+    height: 32px;
+    margin: 29px 0px 0px -15px;
+    text-shadow: 1px 1px #767676;
+} 
+
+.addGroupButton input:hover
+{
+    background: url('../images/medium_button_hover.png') no-repeat;
+}
+
+#wrapper #content form.checkPresence .presence
+{
+    margin: -50px 0px 0px 20px;
+}
+
+.checkPresenceButton
+{
+    position: relative;
+    top: -82px;
+    left: 410px;
+}
+
+.checkPresenceButton input 
+{
+    background: url('../images/small_button.png') no-repeat;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+    width: 70px;
+    height: 32px;
+    margin: 25px 0px 0px -15px;
+    text-shadow: 1px 1px #767676;
+} 
+
+.checkPresenceButton input:hover
+{
+    background: url('../images/small_button_hover.png') no-repeat;
+} 
+
+.presenceList
+{
+    margin: 0px 0px 10px 0px;
+}
+
+/* BUTTONS */
+
+.backButton
+{
+    float: left;
+}
+
+.backButton input 
+{
+    background: url('../images/small_button.png') no-repeat;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+    width: 70px;
+    height: 32px;
+    margin: 25px 0px 0px 15px;
+    text-shadow: 1px 1px #767676;
+}
+
+.backButton input:hover
+{
+    background: url('../images/small_button_hover.png') no-repeat;
+}
+
+.furtherButton
+{
+    float: left;
+}
+
+.furtherButton input 
+{
+    background: url('../images/small_button.png') no-repeat;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+    width: 70px;
+    height: 32px;
+    margin: 25px 0px 0px 0px;
+    text-shadow: 1px 1px #767676;
+}
+
+.furtherButton input:hover
+{
+    background: url('../images/small_button_hover.png') no-repeat;
+}
+
+.logoutButton
+{
+    float: left;
+}
+
+.logoutButton input 
+{
+    background: url('../images/small_button.png') no-repeat;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+    width: 70px;
+    height: 32px;
+    margin: 25px 0px 0px 15px;
+    text-shadow: 1px 1px #767676;
+}
+
+.logoutButton input:hover
+{
+    background: url('../images/small_button_hover.png') no-repeat;
+}
+
+/* THE REST */
+
+.group 
+{
+    margin: 0px 0px 0px 20px;
+}
+
+.editGroup
+{
+    margin: 5px 0px 5px 20px;
+}
+
+.editGroup span.editGroupSign
+{
+    margin: 0px 0px 0px 370px;
+}
+
+.addGroup
+{
+    margin: 10px 0px 0px 20px;
+}
+
+.presence
+{
+    margin: 20px 0px 0px 20px;
+} 
+
+.error
+{
+    margin: 0px 0px 20px 0px;
+    text-align: center;
+    color: #BD002F;
+}
+
+.errorForm
+{
+    margin: 10px 0px 0px 0px;
+    color: #BD002F;
+}
+
+.messageForm
+{
+    margin: 0px 0px 20px 0px;
+    color: #0b9b0f;
+    text-align: center;
+}
+
+.notPresenceList
+{
+    width: 460px;
+    border-collapse:collapse;
+}
+
+.notPresenceList, th, td
+{
+    border: 1px solid black;
+}
+
+.notPresenceList td
+{
+    padding: 2px 0px 2px 5px;
+}
+
