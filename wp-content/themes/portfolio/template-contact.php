@@ -23,8 +23,7 @@
 	    		<p>
 	    			<span class="bold">email:</span> info@mauricemoret.nl
 	    		</p>
-
-	    		<iframe width="625" height="310" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.nl/maps?source=s_q&amp;f=q&amp;hl=nl&amp;geocode=&amp;q=Ockenburg+7,+Mildenburg,+Dordrecht&amp;aq=0&amp;oq=ockenburg+7+dord&amp;sll=51.650023,4.868122&amp;sspn=0.010931,0.033023&amp;ie=UTF8&amp;hq=&amp;hnear=Ockenburg+7,+3328+TE+Sterrenburg+3,+Dordrecht,+Zuid-Holland&amp;t=m&amp;z=14&amp;ll=51.783453,4.678202&amp;output=embed"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2468.7947183599013!2d4.673997516325388!3d51.773359899042234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c428ba44d0ba89%3A0x1b614f8cc456b747!2sSlangenburg+152%2C+3328+DS+Dordrecht!5e0!3m2!1snl!2snl!4v1446278793155" width="625" height="310" frameborder="0" style="border:0" allowfullscreen></iframe>
                 
 	    	</div>
 
